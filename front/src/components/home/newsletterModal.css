@@ -1,0 +1,11 @@
+.newsletter .title {
+  color: #A79350;
+  font-weight:300;
+}
+
+newsletter,
+.newsletter .modal-footer, .modal-header, .modal-body {
+  background-color: #111111;
+  margin: .85px;
+  color: white;
+}
